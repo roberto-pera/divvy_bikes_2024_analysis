@@ -1,6 +1,7 @@
-# Divvy Bikes Insights 2024 — When, Where, and How People Ride
+<p align="center">
+  <img src="dashboard_header.png" width="100%" alt="Divvy Bikes 2024 Dashboard Header">
+</p>
 
-*Optimizing bike-share operations through ridership analytics*
 
 ---
 
