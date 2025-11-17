@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="dashboard_header.png" width="100%" alt="Divvy Bikes 2024 Dashboard Header">
-</p>
-
+# Divvy Bikes Insights 2024 — When, Where, and How People Ride
+## *Optimizing bike-share operations through ridership analytics*
 
 ---
 
@@ -19,7 +17,7 @@ The analysis was conducted using **SQLite** for data preparation and **Tableau**
 
 ---
 
-![Divvy Bikes 2024 Dashboard Overview](dashboard/divvy_dashboard_preview.png)
+![Divvy Bikes 2024 Dashboard Overview](divvy_dashboard_preview.png)
 
 *Interactive Tableau dashboard visualizing ridership trends, trip durations, and station usage.*
 
