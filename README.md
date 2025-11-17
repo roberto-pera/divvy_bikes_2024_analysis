@@ -151,5 +151,4 @@ GROUP BY member_casual, month;
 - [**README.md**](README.md) — Project overview, insights, and dashboard explanation  
 - [**final_query.sql**](final_query.sql) — SQLite query used to aggregate and prepare the 2024 Divvy dataset  
 - [**sample_output.csv**](sample_output.csv) — Condensed example extract of the aggregated dataset  
-- [**divvy_dashboard_preview.png**](divvy_dashboard_preview.png) — Dashboard preview image  
-- [**divvy_bikes_2024_analysis.twbx**](divvy_bikes_2024_analysis_dashboard.twbx) — Tableau workbook containing the full interactive dashboard  
+- [**divvy_dashboard_preview.png**](divvy_dashboard_preview.png) — Dashboard preview image
